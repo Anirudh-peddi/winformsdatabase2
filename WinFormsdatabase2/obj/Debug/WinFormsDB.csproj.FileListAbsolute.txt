@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\bin\Debug\StudentData.mdf
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\bin\Debug\StudentData_log.ldf
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\bin\Debug\WinFormsDB.exe.config
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\bin\Debug\WinFormsDB.exe
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\bin\Debug\WinFormsDB.pdb
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\obj\Debug\WinFormsDB.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\obj\Debug\WinFormsDB.Form1.resources
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\obj\Debug\WinFormsDB.Properties.Resources.resources
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\obj\Debug\WinFormsDB.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\obj\Debug\WinFormsDB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\obj\Debug\WinFormsDB.exe
+C:\Users\Admin\source\repos\WinFormsDB\WinFormsDB\obj\Debug\WinFormsDB.pdb
